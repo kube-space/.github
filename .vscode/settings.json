@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "profile-update",
-        "resources-update"
+        "resources-update",
+        "Readme-update"
     ]
 }
