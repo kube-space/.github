@@ -1,1 +1,1 @@
-![https://github.com/antoniolg](https://raw.githubusercontent.com/kube-space/.github/main/resources/images/kubespace-logo-black.png)
+![https://github.com/kubespace-io](https://raw.githubusercontent.com/kubespace-io/.github/main/resources/images/kubespace.io-logo-black.png)
